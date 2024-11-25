@@ -3,13 +3,16 @@
 The Expense Tracker is a Python program that allows users to manage and analyze their expenses. It supports adding, reporting, saving, and loading expense data using a pandas DataFrame for data manipulation.
 
 ## Features
-### Add Expenses: Record expenses with details such as date, category, amount, and description.
+### Add Expenses: 
+Record expenses with details such as date, category, amount, and description.
 ### Generate Reports:
 Total spending.
 Spending breakdown by category.
 Spending breakdown by month.
-### Save Data: Save expenses to a CSV file for future reference.
-### Load Data: Load previously saved expenses from a CSV file.
+### Save Data: 
+Save expenses to a CSV file for future reference.
+### Load Data:
+Load previously saved expenses from a CSV file.
 
 ## Code Structure
 ### Class: ExpenseTracker
